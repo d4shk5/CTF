@@ -1,0 +1,6 @@
+using Exiftool tool and change the timestamp
+
+example
+exiftool -alldates="1970:01:01 00:00:001" filename
+and check modify and another demand for time and change them last one is GMT time i use hexedit and change time 000000001 the checker provides flag
+picoCTF{71m3_7r4v311ng_p1c7ur3_12e0c36b}
